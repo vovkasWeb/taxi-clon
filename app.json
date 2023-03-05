@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "taxi-clon",
+    "slug": "taxi-clon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "taxi-clon"
+}
