@@ -1,11 +1,17 @@
 {
   "expo": {
     "name": "taxi-clon",
-    "slug": "taxi-clon",
+    "slug": "mytest",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "73a9a9b6-2b93-48b1-80d0-03f1726727e2"
+      }
+    },
+    "owner": "vovkasweb"
   },
   "name": "taxi-clon"
 }
